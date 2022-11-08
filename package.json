@@ -30,14 +30,20 @@
     "@types/react-dom": "^18.0.8",
     "@vitejs/plugin-react": "^2.2.0",
     "eslint": "^8.27.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-jsx-a11y": "6.6.1",
+    "eslint-plugin-react-func": "0.1.18",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.10",
     "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-sonarjs": "0.14.0",
     "jest": "^29.3.0",
     "jest-environment-jsdom": "^29.3.0",
     "plop": "^3.1.1",
     "prettier": "^2.7.1",
     "vite": "^3.2.3"
-  }
+  },
+  "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc"
 }
