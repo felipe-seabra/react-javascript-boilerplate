@@ -8,7 +8,11 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint 'src/**/*.{js,jsx}'",
-    "lint:fix": "npm run lint --fix"
+    "lint:fix": "npm run lint --fix",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "coverage-test": "jest --coverage",
+    "coverage-test:watch": "jest --coverage --watch"
   },
   "dependencies": {
     "prop-types": "^15.8.1",
