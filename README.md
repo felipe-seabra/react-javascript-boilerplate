@@ -34,3 +34,6 @@ Abra a URL [http://localhost:5173](http://localhost:5173) no seu navegador.
 - `coverage-test:watch`: executa os testes unitários e de integração e gera um relatório de cobertura de código em modo escuta;
 - `generate:component`: cria estrutura básica de um componente;
 - `generate:hook`: cria estrutura básica de um hook.
+
+
+© Desenvolvido por [Felipe Seabra](https://www.linkedin.com/in/felipe-seabra/) 
