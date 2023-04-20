@@ -2,6 +2,11 @@
   "name": "react-javascript-boilerplate",
   "private": true,
   "version": "0.0.0",
+    "author": {
+    "name": "Felipe Seabra",
+    "email": "contato@felipeseabra.dev.br",
+    "url": "https://felipeseabra.dev.br/"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
